@@ -1,0 +1,15 @@
+---
+name: Spacewar
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-04-22T08:43:06.020590Z"
+    os: windows
+    files:
+      "C:/Program Files (x86)/Steam/userdata/1190504827/480/remote/MainCharacter/metadata.json":
+        hash: 28fba2b03d07bdd649a1ff92a1bd9457f3acf8ba
+        size: 456
+    registry:
+      hash: ~
+    children: []

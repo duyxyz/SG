@@ -1,0 +1,36 @@
+---
+name: Subnautica 2
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-05-18T07:29:39.536702300Z"
+    os: windows
+    files:
+      "C:/Users/PC/AppData/Local/Subnautica2/Saved/Config/Windows/GameUserSettings.ini":
+        hash: c5f99830fa883c9e7d2e944fae74952d9073ad84
+        size: 2142
+      "C:/Users/PC/AppData/Local/Subnautica2/Saved/Config/Windows/UWESaveSystemUserSetting.ini":
+        hash: 6821b3e7289958b9c4919c5425ef3d041b0fa22c
+        size: 117
+      "C:/Users/PC/AppData/Local/Subnautica2/Saved/SaveGames/EnhancedInputUserSettings.sav":
+        hash: d4ce99e04b4835a0b947060dc0d2407687f19c3a
+        size: 2485
+      "C:/Users/PC/AppData/Local/Subnautica2/Saved/SaveGames/FrontendSavedState.sav":
+        hash: 7218234d2d877ca1df78c521992f10f6db0a167c
+        size: 2277
+      "C:/Users/PC/AppData/Local/Subnautica2/Saved/SaveGames/PlatformEntitlementsCache.sav":
+        hash: 0833d693ad422f01f287a492dd587746366e0851
+        size: 2440
+      "C:/Users/PC/AppData/Local/Subnautica2/Saved/SaveGames/SharedGameSettings.sav":
+        hash: fbe6cc293eefb6f14c829cfdf3bf93e0978ff2d6
+        size: 2379
+      "C:/Users/PC/AppData/Local/Subnautica2/Saved/SaveGames/savegame_0.sav":
+        hash: 36b09b980fc8cff8dc3a9d53c9064368ef1637bc
+        size: 45799
+      "C:/Users/PC/AppData/Local/Subnautica2/Saved/SaveGames/savegame_0_0.bak":
+        hash: a7d37c388da44bf2e438099f80216b766c4895a4
+        size: 41927
+    registry:
+      hash: ~
+    children: []

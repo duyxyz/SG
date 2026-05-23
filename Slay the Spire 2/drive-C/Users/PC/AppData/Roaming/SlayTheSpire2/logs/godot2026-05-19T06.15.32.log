@@ -1,0 +1,43 @@
+MegaDot v4.5.1.m.9.mono.custom_build - https://godotengine.org
+D3D12 12_0 - Forward+ - Using Device #0: NVIDIA - NVIDIA GeForce RTX 3050 6GB Laptop GPU
+WARNING: PSO caching is not implemented yet in the Direct3D 12 driver.
+   at: pipeline_cache_create (drivers/d3d12/rendering_device_driver_d3d12.cpp:4467)
+
+FMOD Sound System: Successfully initialized
+[INFO] Found release_info.json at: G:\Crack\Slay the Spire 2\Slay the Spire 2\release_info.json
+[INFO] [Sentry.NET] Initialized: env=development, release=v0.103.2
+[INFO] Steamworks: attempting initialization...
+[INFO] Steam is running: False
+[INFO] Registered 11 migrations
+[INFO] Current save versions: PrefsSave v2; ProfileSave v2; SerializableProgress v21; RunHistory v9; SerializableRun v16; SettingsSave v5
+ERROR: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MegaCrit.Sts2.Core.Nodes.NBackgroundModeHandler.EnterBackgroundMode()
+   at MegaCrit.Sts2.Core.Nodes.NBackgroundModeHandler._Notification(Int32 what)
+   at Godot.GodotObject.InvokeGodotClassMethod(godot_string_name& method, NativeVariantPtrArgs args, godot_variant& ret)
+   at Godot.Node.InvokeGodotClassMethod(godot_string_name& method, NativeVariantPtrArgs args, godot_variant& ret)
+   at MegaCrit.Sts2.Core.Nodes.NBackgroundModeHandler.InvokeGodotClassMethod(godot_string_name& method, NativeVariantPtrArgs args, godot_variant& ret)
+   at Godot.Bridge.CSharpInstanceBridge.Call(IntPtr godotObjectGCHandle, godot_string_name* method, godot_variant** args, Int32 argCount, godot_variant_call_error* refCallError, godot_variant* ret)
+   at: void Godot.NativeInterop.ExceptionUtils.LogException(System.Exception) (:0)
+   C# backtrace (most recent call first):
+       [0] void Godot.GD.PushError(string)
+       [1] void Godot.NativeInterop.ExceptionUtils.LogException(System.Exception)
+       [2] Godot.NativeInterop.godot_bool Godot.Bridge.CSharpInstanceBridge.Call(nint, Godot.NativeInterop.godot_string_name*, Godot.NativeInterop.godot_variant**, int, Godot.NativeInterop.godot_variant_call_error*, Godot.NativeInterop.godot_variant*)
+       [3] Steamworks.ESteamAPIInitResult Steamworks.NativeMethods.SteamInternal_SteamAPI_Init(nint, nint)
+       [4] Steamworks.ESteamAPIInitResult Steamworks.NativeMethods.SteamInternal_SteamAPI_Init(nint, nint)
+       [5] Steamworks.ESteamAPIInitResult Steamworks.SteamAPI.InitEx(System.String&)
+       [6] bool MegaCrit.Sts2.Core.Platform.Steam.SteamInitializer.InitializeInternal()
+       [7] bool MegaCrit.Sts2.Core.Platform.Steam.SteamInitializer.Initialize(Godot.Node)
+       [8] void MegaCrit.Sts2.Core.Nodes.NGame+<InitializePlatform>d__158.MoveNext()
+       [9] void System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start<TStateMachine>(TStateMachine&)
+       [10] void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.Start<TStateMachine>(TStateMachine&)
+       [11] System.Threading.Tasks.Task`1[System.Boolean] MegaCrit.Sts2.Core.Nodes.NGame.InitializePlatform()
+       [12] void MegaCrit.Sts2.Core.Nodes.NGame+<GameStartupWrapper>d__112.MoveNext()
+       [13] void System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start<TStateMachine>(TStateMachine&)
+       [14] void System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<TStateMachine>(TStateMachine&)
+       [15] System.Threading.Tasks.Task MegaCrit.Sts2.Core.Nodes.NGame.GameStartupWrapper()
+       [16] void MegaCrit.Sts2.Core.Nodes.NGame._EnterTree()
+       [17] bool Godot.Node.InvokeGodotClassMethod(Godot.NativeInterop.godot_string_name&, Godot.NativeInterop.NativeVariantPtrArgs, Godot.NativeInterop.godot_variant&)
+       [18] bool Godot.CanvasItem.InvokeGodotClassMethod(Godot.NativeInterop.godot_string_name&, Godot.NativeInterop.NativeVariantPtrArgs, Godot.NativeInterop.godot_variant&)
+       [19] bool Godot.Control.InvokeGodotClassMethod(Godot.NativeInterop.godot_string_name&, Godot.NativeInterop.NativeVariantPtrArgs, Godot.NativeInterop.godot_variant&)
+       [20] bool MegaCrit.Sts2.Core.Nodes.NGame.InvokeGodotClassMethod(Godot.NativeInterop.godot_string_name&, Godot.NativeInterop.NativeVariantPtrArgs, Godot.NativeInterop.godot_variant&)
+       [21] Godot.NativeInterop.godot_bool Godot.Bridge.CSharpInstanceBridge.Call(nint, Godot.NativeInterop.godot_string_name*, Godot.NativeInterop.godot_variant**, int, Godot.NativeInterop.godot_variant_call_error*, Godot.NativeInterop.godot_variant*)

@@ -1,0 +1,42 @@
+---
+name: Hollow Knight
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-05-18T23:40:58.861034700Z"
+    os: windows
+    files:
+      "C:/Users/PC/AppData/LocalLow/Team Cherry/Hollow Knight/AppConfig.ini":
+        hash: 7e1d1da8688c8a842d36de6422e8a85035866605
+        size: 70
+      "C:/Users/PC/AppData/LocalLow/Team Cherry/Hollow Knight/Player-prev.log":
+        hash: d8b48fc42388183e9e3555d91be1e53d168120ea
+        size: 40749
+      "C:/Users/PC/AppData/LocalLow/Team Cherry/Hollow Knight/Player.log":
+        hash: 1f1d0fbcd2a9c78d196592f2252c75995450659e
+        size: 40414
+      "C:/Users/PC/AppData/LocalLow/Team Cherry/Hollow Knight/desktop.ini":
+        hash: 8d6407c1baedc6d8931e9f7a315e2851a0245db9
+        size: 246
+      "C:/Users/PC/AppData/LocalLow/Team Cherry/Hollow Knight/shared.dat":
+        hash: 54336aaf0c575676068fabbbea40aa133b789af4
+        size: 177
+      "C:/Users/PC/AppData/LocalLow/Team Cherry/Hollow Knight/shared.dat.bak":
+        hash: ec06d4b40787235b6dda3dceead47b959e8a9a14
+        size: 88
+      "C:/Users/PC/AppData/LocalLow/Team Cherry/Hollow Knight/user1.dat":
+        hash: e99ac1e54af6d5713af1503fd25670ceab9e28a2
+        size: 117146
+      "C:/Users/PC/AppData/LocalLow/Team Cherry/Hollow Knight/user1.dat.bak1":
+        hash: 5d44555462abce0a2ddf2ede26c5a33c3f116589
+        size: 117146
+      "C:/Users/PC/AppData/LocalLow/Team Cherry/Hollow Knight/user1_1.5.12459.dat":
+        hash: e99ac1e54af6d5713af1503fd25670ceab9e28a2
+        size: 117146
+      "C:/Users/PC/AppData/LocalLow/Team Cherry/Hollow Knight/user1_1.5.78.11833.dat":
+        hash: 2fb44be755cdf9118d63340388d3e232b19ddacf
+        size: 117146
+    registry:
+      hash: 8ad6f55141330477f7d380334aa4bde91f6eea91
+    children: []

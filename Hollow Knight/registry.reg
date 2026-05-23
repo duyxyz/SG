@@ -1,0 +1,50 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Team Cherry\Hollow Knight]
+"ControllerNONE_h3077180403"=hex:7b,22,67,61,6d,65,70,61,64,54,79,70,65,22,3a,\
+  30,2c,22,6a,75,6d,70,22,3a,31,39,2c,22,61,74,74,61,63,6b,22,3a,32,31,2c,22,\
+  64,61,73,68,22,3a,31,36,2c,22,63,61,73,74,22,3a,32,30,2c,22,73,75,70,65,72,\
+  44,61,73,68,22,3a,31,35,2c,22,64,72,65,61,6d,4e,61,69,6c,22,3a,32,32,2c,22,\
+  71,75,69,63,6b,4d,61,70,22,3a,31,37,2c,22,71,75,69,63,6b,43,61,73,74,22,3a,\
+  31,38,7d,00
+"GameLangSet_h1172976845"=dword:00000001
+"KeyAttack_V2_h2586191233"=hex:58,00
+"KeyCast_V2_h2717529068"=hex:41,00
+"KeyDash_V2_h3725071991"=hex:43,00
+"KeyDown_V2_h3963863291"=hex:44,6f,77,6e,41,72,72,6f,77,00
+"KeyDreamnail_V2_h3670275292"=hex:44,00
+"KeyInventory_V2_h4066910147"=hex:49,00
+"KeyJump_V2_h836447979"=hex:5a,00
+"KeyLeft_V2_h1036976690"=hex:4c,65,66,74,41,72,72,6f,77,00
+"KeyQuickCast_V2_h134954889"=hex:46,00
+"KeyQuickMap_V2_h4034835664"=hex:54,61,62,00
+"KeyRight_V2_h1777895753"=hex:52,69,67,68,74,41,72,72,6f,77,00
+"KeySupDash_V2_h1236884033"=hex:53,00
+"KeyUp_V2_h4054138956"=hex:55,70,41,72,72,6f,77,00
+"M2H_lastLanguage_h3859156181"=hex:45,4e,00
+"Screenmanager Fullscreen mode Default_h401710285"=dword:00000001
+"Screenmanager Fullscreen mode_h3630240806"=dword:00000001
+"Screenmanager Native RefreshRate Denominator_h3121420550"=dword:000003e8
+"Screenmanager Native RefreshRate Numerator_h4243137005"=dword:0003a981
+"Screenmanager Resolution Height Default_h1380706816"=dword:00000300
+"Screenmanager Resolution Height_h2627697771"=dword:00000438
+"Screenmanager Resolution Use Native Default_h1405981789"=dword:00000001
+"Screenmanager Resolution Use Native_h1405027254"=dword:00000001
+"Screenmanager Resolution Width Default_h680557497"=dword:00000400
+"Screenmanager Resolution Width_h182942802"=dword:00000780
+"Screenmanager Stereo 3D_h1665754519"=dword:00000001
+"Screenmanager Window Position X_h4088080503"=dword:00000000
+"Screenmanager Window Position Y_h4088080502"=dword:00000000
+"SxllIT5vwvqIRCSUXRW7fg==_h2430538613"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
+  71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
+"UnitySelectMonitor_h17969598"=dword:00000000
+"jUbXYJdtUyB6c2E0wXSwhg==_h2323034203"=hex:65,7a,34,4f,55,4b,75,70,56,6e,42,4f,\
+  71,33,76,42,65,6f,75,6e,4a,51,3d,3d,00
+"lastProfileIndex_h2074025210"=dword:00000001
+"lastSystemVersion_InputHandler_h3834714209"=hex:31,2e,35,2e,31,32,34,35,39,00
+"lastVersion_h1246900021"=hex:31,2e,35,2e,30,00
+"unity.player_session_count_h922449978"=hex:31,00
+"unity.player_sessionid_h1351336811"=hex:35,35,30,30,35,35,32,30,30,38,35,39,\
+  39,33,34,30,37,34,37,00
+"vTY9ZwWyCq4cnoiD3hO4Sg==_h1710990873"=hex:63,4f,78,4a,4a,63,76,43,61,39,57,35,\
+  61,78,75,54,55,43,31,69,35,51,3d,3d,00

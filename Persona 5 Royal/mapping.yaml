@@ -1,0 +1,30 @@
+---
+name: Persona 5 Royal
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-05-18T07:29:37.006533200Z"
+    os: windows
+    files:
+      "C:/Users/PC/AppData/Roaming/SEGA/P5R/Steam/76561199150770555/ScreenSetting.xml":
+        hash: d6f0957d965804aabdcfbdb5103e2c60de9905a2
+        size: 133
+      "C:/Users/PC/AppData/Roaming/SEGA/P5R/Steam/76561199150770555/db/metadata":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "C:/Users/PC/AppData/Roaming/SEGA/P5R/Steam/76561199150770555/db/settings.dat":
+        hash: 9370d30b194b1e2f86061c0fc5cda9e294ba7014
+        size: 40
+      "C:/Users/PC/AppData/Roaming/SEGA/P5R/Steam/76561199150770555/savedata/DATA01/DATA.DAT":
+        hash: a5713d753e4f93fefcf9ef120a9904d9bdf8124d
+        size: 4912
+      "C:/Users/PC/AppData/Roaming/SEGA/P5R/Steam/76561199150770555/savedata/SYSTEM/SYSTEM.DAT":
+        hash: e0ae112ffc19ed641612b6757930ad61be81aad2
+        size: 576
+      "C:/Users/PC/AppData/Roaming/SEGA/P5R/Steam/76561199150770555/savedata/steam_autocloud.vdf":
+        hash: aad807284f230c6b32eae6964abe2ca22ba4bc23
+        size: 53
+    registry:
+      hash: ~
+    children: []

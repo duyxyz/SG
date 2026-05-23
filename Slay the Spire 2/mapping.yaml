@@ -1,0 +1,513 @@
+---
+name: Slay the Spire 2
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-05-20T20:25:09.384827300Z"
+    os: windows
+    files:
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/logs/godot.log":
+        hash: 16c130cf922a659590f858a8ad4ef8f11ad52d9d
+        size: 136146
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/logs/godot2026-05-19T01.21.22.log":
+        hash: fe139c4f9d09061dd1c965f340bde938453c67ae
+        size: 4410
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/logs/godot2026-05-19T05.58.39.log":
+        hash: f9df7744efae82593e60986df5d92f0dcf1004da
+        size: 168040
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/logs/godot2026-05-19T06.15.32.log":
+        hash: fe139c4f9d09061dd1c965f340bde938453c67ae
+        size: 4410
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/logs/godot2026-05-21T02.27.44.log":
+        hash: 4de9e53e491e5a643699a131502935d8f1568167
+        size: 56857
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/sentry.dat":
+        hash: 419fad9e3b96d5604086984b558bcd299ecbdc61
+        size: 63
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/sentry/775cc7a0-0d6a-4ed7-4b51-ccaf4e74570c.run/__sentry-breadcrumb1":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/sentry/775cc7a0-0d6a-4ed7-4b51-ccaf4e74570c.run/__sentry-breadcrumb2":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/sentry/775cc7a0-0d6a-4ed7-4b51-ccaf4e74570c.run/__sentry-event":
+        hash: 0337ae697654c7a20ae313b00cb23cecaa88d117
+        size: 1874
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/sentry/metadata":
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/sentry/settings.dat":
+        hash: 9ef1c5daec86d2b080e0f90643f3e44047df7a73
+        size: 40
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/BestFitNormalShaderRD/27fa356c6fe738bbb3d373643ed7aa9b28b4f9ebb746668ef479b57bcf3bce2b/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 7c4a8d55f03fc0dbc0162c6ffb4defdea12886fb
+        size: 1760
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/BlitShaderRD/da9bd39ccf93b13de6c06c50edaa9e3ed39708f5e5b770cfc75d341aeb9ea0e4/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 90bc76a11b2b6c31e856797956953a86afe2bf09
+        size: 17192
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/BokehDofShaderRD/143edd1219c43cec59f1dfcfdd0a8ecab4e50a36bfe19e7ed49c460943c4ff7b/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: b6a70cc014f70379c15195af6656894ee541fad2
+        size: 13884
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasOcclusionShaderRD/8fcd25f3b3b258d45009a5a54187ff27eba9649890ac23ec1a5dce75e6670dfc/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 6753337e997d375136ce7a5e77571e8fd7ba30b2
+        size: 10100
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasSdfShaderRD/368b4b7c84d86374afe2553594e5cd85845d47fed8736627101f722e8ad2b4ef/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 509ff759245fffe3f42ec6f86aaa43f39607cdbb
+        size: 14016
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/012e3c47f055b2455271b56f0932018aa11eaf02.d3d12.cache":
+        hash: c7e54d22f512154fb37bd215eeda40ad74cb1fc4
+        size: 99732
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/01deb89763daa398956649a9c966953c17612111.d3d12.cache":
+        hash: f6f63bf683da8ff2f69bf45ac5ce67b7f450c7c2
+        size: 100432
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/021b11a9b0704f9dd67303fc26145dca9668b941.d3d12.cache":
+        hash: ec722132f097b5ef27cf558bd0bc3c4deb1ac9dc
+        size: 101544
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/02fa938e0f4e44d91cd40b1174385632d5857b78.d3d12.cache":
+        hash: 4b5474f527742d8301c377c288c18dd04cccc047
+        size: 98400
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/0709c9e723b54b6fae003e310047d3ca9560179d.d3d12.cache":
+        hash: a07ba5658d3eae82bed8dddfeaa227278675b634
+        size: 49816
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/079ec75349d565efc54a8e755dc1f3520a7c4f28.d3d12.cache":
+        hash: 4ccf736b69741733d9448fad7d3434f1b8312962
+        size: 95764
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 38862357931cc9bf3bea8c144f1471d57b7457b4
+        size: 94176
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/0aaa1aeb0aed70051376a757372b97ea5c793802.d3d12.cache":
+        hash: 47e298415acfba59c40d9f7302f84258d87a8e83
+        size: 96348
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/0facd55b55f5d63a98e7758f1760dc4505e6ee19.d3d12.cache":
+        hash: 3795e9bf57cdc3f15fd45689e8cdccbf8ba4bbf5
+        size: 95288
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/12ddd33536effb3c7492dcc93283636b2a71066d.d3d12.cache":
+        hash: 67d475e34c2e1de4a03b1536e713a0c3d90af22f
+        size: 102672
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/15bb00151ec924ae6041d63d77c9553a8623c05d.d3d12.cache":
+        hash: 09c708ae3eb9ef80b3ee9d1faa4f58e0ddb1f955
+        size: 95784
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/160f0279884a55e191e2186a8592b9d29e8337cf.d3d12.cache":
+        hash: ee216398ec8c2e986ef983a93e4d52dc13fbb78a
+        size: 98948
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/161fd7bf8191d72744ba19075a688f3f496d1ef7.d3d12.cache":
+        hash: d72e6cd4f3198ad7cf686a525d833fa492860c0a
+        size: 95624
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/172d3b0fdce2b2a2ff7e82ab8f82e0d548ff3b2e.d3d12.cache":
+        hash: 3ce1e9e830ce2a7a225e17f5a022b9d2cf90b89b
+        size: 92296
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/1b138a24cbe42e1abbcc8cd4deb32ac38878793b.d3d12.cache":
+        hash: 6e77478095c1434bf039d3bc9ec25db23a3e6cba
+        size: 95984
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/1c2cd6e7abc92592d0cd8c770f7fcf52759d431d.d3d12.cache":
+        hash: c3c1c4ca2e045736c2fa6d77d82fee780f3d6eba
+        size: 107172
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/1d0b7c6c61790f15023d0b9d6e5ca0f5ad201e50.d3d12.cache":
+        hash: 023cdd238f1cb4e878110fbefabc9f87d9137c37
+        size: 97100
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/203f7fa0f4dd4fc04e7ac2a08357ca7781e9b866.d3d12.cache":
+        hash: 35cef057328ca290ca40bafff562f3302a9e1868
+        size: 103940
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/2145f993ec3663f4948dc9d1f72fff2617579e0a.d3d12.cache":
+        hash: 526c306de8a1f13174198737b501e7f686597605
+        size: 121936
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/2541f354640b9ee148ac9cd7d0a076c9186a2ff7.d3d12.cache":
+        hash: de8a047bca714481a6745773850afae58a68ceb6
+        size: 100788
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/27b3b1b6da8fee263366c50f125c2edbbc644c1c.d3d12.cache":
+        hash: 9f93854bc83f7edb57676d2f24357d7b84ae2167
+        size: 98944
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/332b6fece9bb49acde7cb2011b13049b305c5bbc.d3d12.cache":
+        hash: 4e6b6a4b62796ff0be23100201dd075d37f3ea36
+        size: 104620
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/348faf1f98aa68efd2a14ef42769087eed65c9a3.d3d12.cache":
+        hash: 2968d028cf789c9795ab77d97158c37bb3f17f69
+        size: 98052
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/35b2f2a07e5d90df404fab035be769702e4f5c4f.d3d12.cache":
+        hash: 7a6c97f8b949cfb23f1a8768efff6a3b4f130ee6
+        size: 96500
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/38458e204f594f02791cef5149635cfc30894338.d3d12.cache":
+        hash: 57fd251c55922828e4055463cb7a4e165626f9a1
+        size: 102288
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/3b22fc6c1b2cf3ddf14e46306af0d1fdbd899bde.d3d12.cache":
+        hash: 92367f7d165b7ee3af7012af7ce267671e1ef97a
+        size: 96644
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/3d822608811ead4a3d4e6826f006af40277f77b3.d3d12.cache":
+        hash: afc0890f44e692d89f5b071d77b35f9ad746d434
+        size: 94484
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/3d98dad5739b98074ab6904f8710bc545ca1fa6a.d3d12.cache":
+        hash: c0a3da48391e1558883da5cd01f959b26be7c7c4
+        size: 96192
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/4247ce7f8ac3b4133add260c98ea84b57115b13a.d3d12.cache":
+        hash: e2591a585e698c1528fa3e1ba6743877c58825d1
+        size: 100332
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/42f67d80d484ae06c011bce8b71f7b84646c5ca4.d3d12.cache":
+        hash: 92fa655775ae0d486a0d738f8b1c3f273b4d02f2
+        size: 100420
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/45a531f048a65917e7d2df60eba1ade493d930ad.d3d12.cache":
+        hash: 408b4b035ad8d4c367392558d9a4d1dd182b95fd
+        size: 94988
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/45fb1ddc6499e56682916a355ce2839e61f42dfe.d3d12.cache":
+        hash: 8ee128903a931a8e8267f95757ae21c52a50b53c
+        size: 49256
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/486d046109bbfd5d3ed98ec81b316b07c39580c1.d3d12.cache":
+        hash: c90ebf86868130dbc03f10ab9c6da73ab82de714
+        size: 98432
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/49c11bf710007fdb67c4c698b4367825ba34f67a.d3d12.cache":
+        hash: f3c6b4b61272c7d803416a21db329c2e73f742c3
+        size: 95628
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/51c638ffc675945eec7d2697706858c9016fbeef.d3d12.cache":
+        hash: c1bb309ccccc1d13749f37e25a700b51a8d64b95
+        size: 97736
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/57f4d63d25f9d511a715a0e1187ab478804c3514.d3d12.cache":
+        hash: 615ec2addcd4125df4364ab461bf1dc4b4073c16
+        size: 96104
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/5d1efbe74b7501d5f5fbdc7cd9a6efb0d28a5790.d3d12.cache":
+        hash: 0f48bbcf0f5f9c834b19105a5e4200fe7584a1ee
+        size: 107680
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/5f967ecbf9c1fc0bb913a078fe0339efcea28cfe.d3d12.cache":
+        hash: b03077e2955f09e1bc27ead460161c2c3173a756
+        size: 98296
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/64fe90787c000b5357abd0b5e23f8e1cb74439a7.d3d12.cache":
+        hash: 0003ac5a8b953de59992478efbd85c16c96cc170
+        size: 97352
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/669a362bf1d4ac907d9819937a26d9b24a96596c.d3d12.cache":
+        hash: d212546ca81e63758f831bd4eabc53fc013819a2
+        size: 91812
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/6a9408fb6ca8a362157364a0648b0fd738faf553.d3d12.cache":
+        hash: ed3b6df187b54c688c0c8c7cbbe956dc9110c096
+        size: 96104
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/6ddfcecc06554090fd9842203bd0ca791d646df4.d3d12.cache":
+        hash: ad3f2107422b8e845f91da9c55d70da184744fcf
+        size: 95384
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/70bf8f26797d97f08eee84de7023d371e3c380bf.d3d12.cache":
+        hash: 06226577cecb90d13cf6f58d55bbe7b3e881634a
+        size: 96736
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/783b34c60719966e73d989a1ec89d80177135f43.d3d12.cache":
+        hash: 9ccb69a43bf984d91543e332e258abd5278c4906
+        size: 98836
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/78e0dffe745b667bf3ebb1c822d08df2869ef996.d3d12.cache":
+        hash: d75fed479e35bc4c1c15137ba621d1faf66c1831
+        size: 98964
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/7dc178d5dc44fcdd7c8d7c7e80b905c015ce8ee9.d3d12.cache":
+        hash: 5b3273ac1c1d5b23722ccfdc4379c2a7ebfaa13e
+        size: 98208
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/884af598e2e787703c81b2c47511c82099e54ee5.d3d12.cache":
+        hash: 8b7e0a45c6e29b753142ba359ea99719fe301237
+        size: 96668
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/8a7277c8d3ac029b087c3fa9c55de85560be5119.d3d12.cache":
+        hash: 89a28cc43edc72d795550cc747099daa73b86633
+        size: 50032
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/8e53b0fc4193afc5ee3359fa2a64bfa34545b295.d3d12.cache":
+        hash: fa181faf733eb4fd2c3eff6188c577a9f090bb9a
+        size: 96056
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/8eaf6c797eccd4e9ec6eb83d40234d487285a9ac.d3d12.cache":
+        hash: f0e437fed8a6ea969e0bf8a9aebc966a0d2ccc40
+        size: 107436
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/95aece52720318391829d5c920c9c131e62220da.d3d12.cache":
+        hash: 005d4520a4f4fc88fb19e9664ca515d1c1696945
+        size: 95788
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/9ff47c4b34534c429bb9c0f9de810568e4cdf648.d3d12.cache":
+        hash: a3953002e14374e5ee8008666728d780d535422e
+        size: 95248
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/a02787b232a24e4adc7976be5e0be31e7d857455.d3d12.cache":
+        hash: dcc3e375270feb8ad7e9c2ebed597d18828afadf
+        size: 102712
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/a2cd0493721158e5134cf44561888cb26043be2f.d3d12.cache":
+        hash: 67fcd147a2dc3e4fb944dbe58e32770de8a39e38
+        size: 98700
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/a9703612782606066bda7a4ab77dd8b00fd8d1d8.d3d12.cache":
+        hash: c63a211224ae32ab9c47c4b56931533e4786a8ee
+        size: 100260
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/a9c8f27f4ab85304a32baa53ce075a6a0b816a8e.d3d12.cache":
+        hash: 8b3a2c3e6696c1bbab5e4031c954580dd7132165
+        size: 95648
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/adbd2768ee8c1f649e8c317537e1edfc2d52bd47.d3d12.cache":
+        hash: 8a0112834ee41a3dacde58b97b30a62a550bc596
+        size: 98448
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/b1d8c83e2c0b777678003270a03202afe10232f6.d3d12.cache":
+        hash: 8e17b370fd44e4528155e470c758428ee62a66f9
+        size: 47172
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/bdc90227aa8f0e3f76436f26d80d4df4e59dceac.d3d12.cache":
+        hash: 894cc47470036f0005f5659d26d449a072042179
+        size: 94240
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/bfdab7a074c0ab5d4e262a28d200cb52a738c5fc.d3d12.cache":
+        hash: 8cf3926e90fd909fa23e37f909bdadb4c7a4be3f
+        size: 103768
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/c1f318781ff44be5ca6021376c183870a7db6062.d3d12.cache":
+        hash: af9811793271a229c2e6a57bd0f407b9c0a18284
+        size: 93460
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/cbacab5234fb1f721f61238aa65ad3ddbb4fda9e.d3d12.cache":
+        hash: 74efea507a7da52b2fb1c3172ad1e469fb90ebc5
+        size: 94468
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/cf8f1579aff56654ac15b1e03425a4b8a5e6b24d.d3d12.cache":
+        hash: 3cb885460dd8d1052b6158588be4770e249c4c90
+        size: 97236
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/d0b6c32577bcf01793a12029f68abf6817da68cf.d3d12.cache":
+        hash: 61ef85e46b6cfac060dd918b98bee509182b0051
+        size: 96980
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/d2a428e58bf033b0cbd9cc1e1681cb5800b30f96.d3d12.cache":
+        hash: 2afbccf46c330539cb9eb9edc05f3e7a15838aa4
+        size: 94112
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/d4406af33f8989f7f3f8fc7b26c4c69115aa8472.d3d12.cache":
+        hash: 078e73e02708615f0f8f3f6cae8bebe281f45e6e
+        size: 104972
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/d468ebb1cf76b244c70b90fbba09f9cc69cd5669.d3d12.cache":
+        hash: f4192125bd76de1007b5f57443a58f01b1141489
+        size: 99368
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/d752b8c31a6705852dbf25961a14729345555926.d3d12.cache":
+        hash: 4c59a70d50ca5842a263f815db4b843cc7170c74
+        size: 99664
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/e12b3354de13ba77f558203f45c3dc1ed4d5451f.d3d12.cache":
+        hash: 3e1719595505344427768db9728d132b359067f9
+        size: 97224
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/e5b3dca690135fcf84dbd9724ce477bbcde207b1.d3d12.cache":
+        hash: d4b086d318cf19d6081da78921b9d709bb70024c
+        size: 97384
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/eca204091c2629802543a8b7e30139bd54a81773.d3d12.cache":
+        hash: 3c0282eedbdb67284b3586bf6030ddee03faef1a
+        size: 99532
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/ef7cca768c4c8693f8bad6350636bd5932c4f215.d3d12.cache":
+        hash: 38bb033d295981bd847ee587f6c71576040208e0
+        size: 97476
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/f0a0c24a4a94a9e70cce50f02f0cd1f0abaf7623.d3d12.cache":
+        hash: 917a9f6e07247778af11dee6cfc2537132c0b53e
+        size: 103544
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/f558e49ec22d94b37ae472a9505dc910819c1dc1.d3d12.cache":
+        hash: 4e64362fd8aab1ef53178dbae0b3109c8e7560a1
+        size: 93152
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CanvasShaderRD/5344a20fff45907833af19dd862db296481988f28c71207b4bbcb33af0cd0604/f5bc29b8b0a4edb6f157e570123589a8fa355896.d3d12.cache":
+        hash: e9a2a0e15c19eae4623f49a0ce12090a040f5231
+        size: 96216
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ClusterDebugShaderRD/1ba8ed654c0602be46475848512f4b5bbfba5fad229904e6c2332bc9c5508f1e/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 2ff6b1b4ba15302dffa7e9f3ae131c1ac29c3f29
+        size: 4068
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ClusterRenderShaderRD/1dbd871dd2b02f2f65bd38399f5668be72e97a021b2965420a3ad69362e08f0a/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 56f6d0d6126c3dfbeb61ebc3ce413c189677fe34
+        size: 10340
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ClusterStoreShaderRD/2b2f11f9aff61b851bc2b11035128b32db5e2dd6698342293b6347a7ba6a085d/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: b3e6c19fdf00dddc664e788b9a9ef9383d9522e8
+        size: 2552
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CopyShaderRD/d6103e33b463e66b194ea881e1ca0751074712b4e693676b0442445adb10f4b3/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: b63c2843924694eb39bb2f3d646a5f72cf0faea5
+        size: 38160
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CopyToFbShaderRD/a87e73cd56040c7f84acd17337a41ad7acffaf31a352cc7c5ac755efd7a5b89b/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: ad1269e1f195dc8d5d5c0bb845d74b0bba9031a6
+        size: 17620
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CubeToDpShaderRD/334ac138e689d7c22ab40710cee5114665236f810fd0b630f9a6c2d14a3bffc1/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 63940e3966e1b56504d068f1e099822b69999595
+        size: 3724
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CubemapDownsamplerShaderRD/fad3611dd8b51ea521a68cdfcf1ec860b89e8c27739ea7f54bce343102018759/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 7cec9b6b5d4a94c3c052917c0c52d9bf1fc8782c
+        size: 4268
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CubemapFilterShaderRD/34cb47ca5183f8cbc3f72753274813e35841b89f0ce0b5bdd65cf3d98b905419/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: a4145d65e1486cd0647d41f6611f545e733dad51
+        size: 20672
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/CubemapRoughnessShaderRD/bb1367f3c9a8bbd73c1e3580d4b810d827c2cee5686fbed9c014f2bd10eb2fba/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 5d0ffd15f86e7ba1f6cfbbf4488c288e77943e5c
+        size: 3776
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/FsrUpscaleShaderRD/f29202e073c5ec5f038d4e9356dfc2aec74811c20a3d2be3e3f9f6af9d6d94f8/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 3c4639488039bb7f351777fe9d87a3c2edf6e431
+        size: 30592
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/GiShaderRD/15cdace9645f6cfabb484a61bbaa34dc3f6ef2b03fb871217236234150993e91/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 93db8279bb1bdd6ebabe05b789774d467e450059
+        size: 57660
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/GiShaderRD/3a529627f057bfbcf51f0721b577735ff0e547017df83ae6f3ef593fb78e2b28/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: d2b7370950b1d4d134058e65400c9c2988c6e4c5
+        size: 63096
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/IntegrateDfgShaderRD/e31fa725014186821c3e3646c90ba3af4706f1c8cfbbb018e55f4b3e031a4807/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 31b4f16f7fb39bffd976f39d1580695256d982d8
+        size: 2220
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/LuminanceReduceShaderRD/db36be952ee1c5d5a634d0077edf4335d6d81bf8f71f81f36440c38ac8944368/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 6c476bc6f380270499222d61e0c1432c8cb1c5ae
+        size: 8148
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/MotionVectorsShaderRD/8c118681e8be867ff48f1589888c03e77da3f276e74ec4881585a9a588f5dc45/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 47fbdef8b469b1eba2218e27bd3bb328cbf887d2
+        size: 4284
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ParticlesCopyShaderRD/5405d948e6a853449f8ed26499a00bfa6c04683f10aab246d2b5414938df57ae/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 2952cfca0813ef9ba45e7981b7e2b8cf18131fb9
+        size: 86052
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ParticlesShaderRD/2c975b9f606a53e70d85ecefa151a80fae56cc782297a091e5a51c667179c328/1fd65ce6494ce25b5602d191c8b2bf65fb4ba90d.d3d12.cache":
+        hash: f8c32f198f0e2197dc4a1bf2edce6ba6a41a05a8
+        size: 103088
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ParticlesShaderRD/2c975b9f606a53e70d85ecefa151a80fae56cc782297a091e5a51c667179c328/4f79109925c8a5e8a86abb1208dc4d54f3ffca58.d3d12.cache":
+        hash: 4faf7231ddcfaa4958d978142f41e019d5a49a7c
+        size: 99864
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ParticlesShaderRD/2c975b9f606a53e70d85ecefa151a80fae56cc782297a091e5a51c667179c328/ab217f9de489b37151767c2852f69db8c6a492eb.d3d12.cache":
+        hash: 5f3830a17f454cbf5a4c8f603ab810b4084f7e26
+        size: 103556
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ParticlesShaderRD/2c975b9f606a53e70d85ecefa151a80fae56cc782297a091e5a51c667179c328/f128cab0b22fb7e0d9f023d6cdb81309be392d95.d3d12.cache":
+        hash: e7e3cd738edb2426937a4ce8dc3d3e943f164eb6
+        size: 7428
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ResolveShaderRD/80564ad7b9de936c0082edc6b4c128663eab8fcf050b2c4ff8d4d78b9a9c0e80/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: eb0fdadad0447b5d2290cfaa9efcf5e8d78369e3
+        size: 9408
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SceneForwardClusteredShaderRD/4c5d823bcbd5b17afd644d7811253d1b04c120aad508fa0d2dfcced9cf00daa7/111f8cfd3c260d918df85827eb251dc36a43cb13.d3d12.cache":
+        hash: 0616ff79bf22f2435d69ff1f95af67e506b09839
+        size: 157708
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SceneForwardClusteredShaderRD/4c5d823bcbd5b17afd644d7811253d1b04c120aad508fa0d2dfcced9cf00daa7/2996f88c5c6c694a88c2cbee4981654b7b1ada7d.d3d12.cache":
+        hash: 749a029c82060b91e091a366c63c6ac4779b960a
+        size: 103828
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SceneForwardClusteredShaderRD/4c5d823bcbd5b17afd644d7811253d1b04c120aad508fa0d2dfcced9cf00daa7/321e42e1280eb440cb08d0ceb1689cb32a542119.d3d12.cache":
+        hash: 92af657717d711162cba91119cb8cbfbd7aa78b5
+        size: 167232
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SceneForwardClusteredShaderRD/4c5d823bcbd5b17afd644d7811253d1b04c120aad508fa0d2dfcced9cf00daa7/a38af1e47720abf30ca44f3d3c099c07b046df81.d3d12.cache":
+        hash: 6e734b0eb9d6c06bba4eef19c90126be75c194f5
+        size: 161100
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SceneForwardClusteredShaderRD/4c5d823bcbd5b17afd644d7811253d1b04c120aad508fa0d2dfcced9cf00daa7/ab0b960474f1491b42ef9f2ca13dbd4ccaf64911.d3d12.cache":
+        hash: dbe3794704f0fe00f492a41e5a68f9aa3b802051
+        size: 87356
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SceneForwardClusteredShaderRD/4c5d823bcbd5b17afd644d7811253d1b04c120aad508fa0d2dfcced9cf00daa7/c8065ded236c12527c740257c34387b921293ef8.d3d12.cache":
+        hash: fc7e11400739c4e49dbc8f3c956629d3a71f4bf3
+        size: 98064
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ScreenSpaceReflectionFilterShaderRD/59ad606c8326a93d088cb8ad100214514db30cfbf515d80e68a652461922a164/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 81f44a52348991cdee1b8c1c740e99eaa5f59d08
+        size: 11892
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ScreenSpaceReflectionScaleShaderRD/86cab1f98693497f3d66ae830fd338a35b08cda4a675e79e35537f824b683ba6/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 52a6ec0df7611e2911b305eb63954a62f2141a64
+        size: 3620
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ScreenSpaceReflectionShaderRD/40d236c30fa83be1809999477e417af6fd8e4e877a11ab09e22462d8b3b46d5d/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 5a1602503c05fadda8c83fbb3a22ccf738cb884e
+        size: 11024
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SdfgiDebugProbesShaderRD/b1f8f61e65f08f2ea3f69df88a37676200a0846e4a8258f94aec5deb1239619b/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 18e47caa035fa68ae0e8e339002dca6fa17f3921
+        size: 19308
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SdfgiDebugShaderRD/074c8fa43ef2bd71bf6c1595db9de7e3182bb138e91efcacac121214f6be80eb/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: cf48c5db7db8fc792170ac23f18ec20eff3bace8
+        size: 4312
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SdfgiDirectLightShaderRD/c3d143416d9c2eb5ed45907bb49e12075c315c9e4db114e8dcbf7f4b975c3406/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 1be148818bc0cb27a52e6aa1f46d52a742d18e06
+        size: 16320
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SdfgiIntegrateShaderRD/b35908456ade57d11cac2c6db90511bf78a0f86eef91f4f6e80ca8086af3c9d3/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 22eef8847154fcb9b68ad0b71988b21ef20d3ca3
+        size: 23160
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SdfgiPreprocessShaderRD/65d64685f686ad8b038b412180f3e58f67e97d1e1144cd758ee982f077bbcb79/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: f9e2ad3f369500882d5ef06d555ae016d9e1f003
+        size: 35032
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/ShadowFrustumShaderRD/370c95f68584a7db974be02b3cadfe95752827cad8cfde318ad58b1e3f4b584f/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: c42e1e7e5bccd63ff9db3b1cd609a6c4101aaf2f
+        size: 2924
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SkeletonShaderRD/d6e394fd4ef33e0a72edf47ffc86d9167c36744212ab892bacced731d4e7c8de/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: ab883cb96e8b32c6e94111e09ca312a49bac10a7
+        size: 9864
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SkyShaderRD/5bfbd80e050b2e4dae8bd9db711c00dd31be76f193d5ca493b9516e7fae2c402/03e3b11c69e24394b2d955a8c0ba85587bb70839.d3d12.cache":
+        hash: ac942e8da53ad5bbc0d9dea23d20b3ec41b8e1c4
+        size: 30672
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SkyShaderRD/5bfbd80e050b2e4dae8bd9db711c00dd31be76f193d5ca493b9516e7fae2c402/de678811d1bad3cad4892a8db7b6ea0be197d51d.d3d12.cache":
+        hash: ad7e780592f17b6a236e63325025f19b04d41fd8
+        size: 28808
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SmaaBlendingShaderRD/be45fef550ed73e5267eb1a06e25a3c5d91cc59514fe99b531ed7c72ef2a53f7/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 9a62706b33f6f543d8f33b52b3f52e9b2f687b8f
+        size: 5284
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SmaaEdgeDetectionShaderRD/1caa616bf2b24d7c61b0bc327e6c3b911526cb42c5b6af1776043f8a83739f90/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 9e39dc41ef4a745e542eb82f4f1ef8eb48e3cb30
+        size: 4672
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SmaaWeightCalculationShaderRD/d21928af91227ca0e91898bcc780186261f5d9ef977108f9662bff9a577b87d3/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 8ca0403332818cfd6a58d161018fec5c93a8d2ce
+        size: 7824
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SortShaderRD/8d0001e9686e841b0892772a2456299b8b0eaeb0b1c7541fb2aa6aa827618d33/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: fb7ef328b9af924c54134e67b5c8eae4828b483b
+        size: 6404
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SpecularMergeShaderRD/38a44ad0c89c9302458446b3a02d03ee2549d9fc97ba9412dcb2f43fe64a12c1/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 419d3b7ce1109bd1d473ccbb58aca39bdda806a2
+        size: 13604
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SsEffectsDownsampleShaderRD/8dc9bd81e87dafec6238151da0c61bdbc0b974eefcd7097c694a313aecacb32b/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: f5c8892d69d3efdfefc73f7d2ade2510abc52b06
+        size: 20308
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SsaoBlurShaderRD/17dc25d633380086c1f9da58c0fbdd6e7b118d06d4375d0e374b82cccaf83021/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 5817fa077da591e182157cfc15b492c29a4c0b0f
+        size: 7296
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SsaoImportanceMapShaderRD/99ee15e0c88b6e07b0fdba046e3a02967670e24c441b5a3b62f36dcf18ce1888/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 8e2885042ee22fad757239a51429ccbff347f164
+        size: 7148
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SsaoInterleaveShaderRD/4f5bd809ca024aa59ee35c0d0fba427f224e9e0b879909675f0e234c426209a2/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 0ba81846bcf3fc866f15f647d22ed55773e52c33
+        size: 7052
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SsaoShaderRD/f6a64a85427ab3480a434d331a587b668b827911c02ec1d0a76ff797e3bd821c/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: a1ce1267a6f615a15352c84b52776dc6eb2b8275
+        size: 24720
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SsilBlurShaderRD/914e3175d0a0923f0441d15ca3d56f6e70892f75fc938d7063f26485b42dfeea/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: b5d4959aa22e40b5aedcac5a60e69fe139c8b3eb
+        size: 8216
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SsilImportanceMapShaderRD/13577e83caaf2b12f20257d4a4e0a5392e5da28a1d60ce89f0ba6087b1553a12/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 8996748bf040867bbdfc49fbfcb3f5d32ccde7ab
+        size: 7076
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SsilInterleaveShaderRD/c17bebc0974296a1db6839383c963557cd1db40fb04e52f0d78f56daada7ba16/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: d50aade11effa525e2f7d4ac1c563fd41b1bcc54
+        size: 7756
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SsilShaderRD/19273553dd04782d69f08729359821628476f6f4ef06fa5f47b40c3584eff15b/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 58244481f107b68291351cac28452739ea8d5a08
+        size: 28420
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/SubsurfaceScatteringShaderRD/346874da2fb18e11a28559a4d0ba8091f63d2439f0ff81b918cea77719edfcd8/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: f725dc8b53b1d07c509c41b4ea7d2e0899596c35
+        size: 14428
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/TaaResolveShaderRD/5c65496ce6ac3f52b37d4b65e4a1fede2f3aeea7b4c6a79c90f6cf374d511be8/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: c27edf6704705d3855f6d1a72a3835b4eac98fd6
+        size: 6276
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/TonemapShaderRD/bcf12902f02f6746cf510dfdab5d05b5a39e060c3b3cc9750a0dbfe10ac7cfbe/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: f95ceab2a7559eca7fb47b2905a2880f2d636882
+        size: 74120
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/VolumetricFogProcessShaderRD/e7f6d37bb922c895af79dcb7b28abe9919540d8e81c61692eda51aae9d52a579/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: e1047e878cb6abc2991437b52343e8ce019b30c5
+        size: 36564
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/VolumetricFogShaderRD/9fc8d14b6ee56e7f7beb8d5ea7419ba3d0d51e83b9a61131301ae18250e5bae9/9a227745af2d65830f930370a9fbba551fbd6f60.d3d12.cache":
+        hash: 1d6cef65c7ac99f7fe3d2f1709c7d9670606ea7f
+        size: 5564
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/VoxelGiDebugShaderRD/d8efc6eeace9fd412066a05a7d1a63fb7bcd55627354efd4798a75b3c9f9da8b/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 2dd0d4fb12b8fcf79eb6f1466e0d7d9eff291bed
+        size: 19288
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/VoxelGiShaderRD/105bbde43daa99d6779509bf800c6a0c56d1e884cdb53723043b86688dca7864/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 0061af42cb2065ff59dbeb93c1de75f6d0980dc5
+        size: 30320
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/shader_cache/VrsShaderRD/7d8100817ff59e51a68cf8ce5880e8e2dcb3a4142c45cf6284bcb5c99b8556b1/087916079fba7c625e62b0c2cca570e0fb87c99a.d3d12.cache":
+        hash: 87221e6085df72902024cf77d940f09274032d18
+        size: 10040
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile.save":
+        hash: d1020fb1ed1d9a12925b279fa285a5197e14ad9d
+        size: 52
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile.save.backup":
+        hash: d1020fb1ed1d9a12925b279fa285a5197e14ad9d
+        size: 52
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile1/replays/latest.mcr":
+        hash: 6983a9973e46009b389a9903874925bde4e4cfda
+        size: 5642
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile1/saves/history/1779090097.run":
+        hash: be6042f8add3b13f9edb51f26edc634c4b625927
+        size: 19497
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile1/saves/history/1779129055.run":
+        hash: 926e439fc842ca8778b1a55b7d4fc0165632f48f
+        size: 52310
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile1/saves/history/1779131760.run":
+        hash: 72f7a490a9100116436da6dc1abd0071a238b353
+        size: 49277
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile1/saves/history/1779146184.run":
+        hash: f59355d72918bb74435d7f1fbb3d7c8e5c84be2e
+        size: 27362
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile1/saves/history/1779305300.run":
+        hash: 0f6f204a4d6f8110d23bf21a6928f92f8917468b
+        size: 52942
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile1/saves/history/1779307571.run":
+        hash: 0e8f7991a85d3aed760add574a6aa57a6d6b279f
+        size: 41550
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile1/saves/prefs.save":
+        hash: ee2280900d63ee383f02786cd5d01f460056e314
+        size: 298
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile1/saves/prefs.save.backup":
+        hash: ee2280900d63ee383f02786cd5d01f460056e314
+        size: 298
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile1/saves/progress.save":
+        hash: 1a3dd5aca13bbd0802853172564d656d8e3ea00c
+        size: 72293
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/profile1/saves/progress.save.backup":
+        hash: 1a3dd5aca13bbd0802853172564d656d8e3ea00c
+        size: 72293
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/settings.save":
+        hash: 147adfd69190b70c766ae702cb16ca8f76c99692
+        size: 2403
+      "C:/Users/PC/AppData/Roaming/SlayTheSpire2/steam/76561199150770555/settings.save.backup":
+        hash: 147adfd69190b70c766ae702cb16ca8f76c99692
+        size: 2403
+    registry:
+      hash: ~
+    children: []
