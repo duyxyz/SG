@@ -1,0 +1,39 @@
+---
+name: Dave the Diver
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-05-25T18:05:55.953486500Z"
+    os: windows
+    files:
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/GameSave_00_GD.sav":
+        hash: 5f02f793ebc213e9cc7389d06e603a2f44da115f
+        size: 44844
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/GameSave_00_PZ.sav":
+        hash: 25eb13d985f6bcbfdad1778f48daac01fd0d8958
+        size: 148
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/GameSave_00_UO.sav":
+        hash: 3342b329703650e3e55ee02ea5f4fc250b003bff
+        size: 691
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/GameSave_01_GD.sav":
+        hash: 4fde8ae926dee2c99563ef690bf63a0f933c8881
+        size: 44282
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/GameSave_01_PZ.sav":
+        hash: a686b0535b22744a6f6ace0c9762d7c4e80b5b34
+        size: 148
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/GameSave_02_GD.sav":
+        hash: 79c403fce32b1bb2fda075126d00525cabb8ecd6
+        size: 42591
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/GameSave_02_PZ.sav":
+        hash: b59910515abd36504175ba163b6decd7d0a5e00d
+        size: 148
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/m_GameSave_00_GD.sav":
+        hash: 190f256bb276fdadf3f3cf29846df1d39186aa83
+        size: 44844
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/m_GameSave_00_PZ.sav":
+        hash: 06058ffe4330584bf5c457a52323316268a5d0ed
+        size: 148
+    registry:
+      hash: 1ae83ed5e383a3271dffa52ba231fbb719a16374
+    children: []
