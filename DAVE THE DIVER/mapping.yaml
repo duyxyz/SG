@@ -1,12 +1,18 @@
 ---
-name: Dave the Diver
+name: Dave The Diver
 drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2026-05-25T18:05:55.953486500Z"
+    when: "2026-05-25T18:12:49.767257500Z"
     os: windows
     files:
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Player-prev.log":
+        hash: 3ea2484a0a1ba4ea9c30228d5a5bce57615fa1d1
+        size: 4344
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Player.log":
+        hash: 1ae1854cc0219bc1a742967f459e8b4131cd9e51
+        size: 413731
       "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/GameSave_00_GD.sav":
         hash: 5f02f793ebc213e9cc7389d06e603a2f44da115f
         size: 44844
@@ -34,6 +40,27 @@ backups:
       "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/m_GameSave_00_PZ.sav":
         hash: 06058ffe4330584bf5c457a52323316268a5d0ed
         size: 148
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177972900600005.1fcc2dab/c":
+        hash: 356a192b7913b04c54574d18c28d46e6395428ab
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177972900600005.1fcc2dab/e":
+        hash: d0add3f60010749d086ddac329690dec99a589d6
+        size: 608
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177972900600005.1fcc2dab/g":
+        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177972900600005.1fcc2dab/s":
+        hash: e71e95e357b6aff6b313c23ddfda673c30139e78
+        size: 462
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/config":
+        hash: a351bea1932270bafbe468584058fef20dcfc31e
+        size: 293
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/values":
+        hash: fdc8bf3d44cd173a36bc862d0ebfdeeb7ebb2f5c
+        size: 146
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/ShaderVariantAnalytics/ShaderRuntimeInfoEvent.json":
+        hash: 57f969933a911ea8a36f36b687bfabea8f9aab64
+        size: 555
     registry:
-      hash: 1ae83ed5e383a3271dffa52ba231fbb719a16374
+      hash: ~
     children: []
