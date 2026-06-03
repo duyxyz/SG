@@ -1,12 +1,18 @@
 ---
-name: Dave the Diver
+name: Dave The Diver
 drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2026-05-25T21:18:48.832618Z"
+    when: "2026-06-03T03:18:21.649566400Z"
     os: windows
     files:
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Player-prev.log":
+        hash: 33c36782c24a236679ea8fbc2bf98ce7522d9927
+        size: 4848
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Player.log":
+        hash: 78716a3293eddb4170c3380c3b53cbf187654418
+        size: 407935
       "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/GameSave_00_GD.sav":
         hash: fd706b576d37bea114ad73aba90eeea09cb8b089
         size: 59528
@@ -34,6 +40,111 @@ backups:
       "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/SteamSData/4660/m_GameSave_00_PZ.sav":
         hash: 06058ffe4330584bf5c457a52323316268a5d0ed
         size: 148
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177972900600005.1fcc2dab/c":
+        hash: 356a192b7913b04c54574d18c28d46e6395428ab
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177972900600005.1fcc2dab/e":
+        hash: d0add3f60010749d086ddac329690dec99a589d6
+        size: 608
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177972900600005.1fcc2dab/g":
+        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177972900600005.1fcc2dab/s":
+        hash: e71e95e357b6aff6b313c23ddfda673c30139e78
+        size: 462
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974155800000.54519d8e/c":
+        hash: 356a192b7913b04c54574d18c28d46e6395428ab
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974155800000.54519d8e/e":
+        hash: a4f604a17982ffd9e26a456b8a946957361e46a5
+        size: 602
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974155800000.54519d8e/g":
+        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974155800000.54519d8e/s":
+        hash: baf5da7dc4627405ae6488f8d618430a813a0b81
+        size: 462
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974155800001.54519d8e/c":
+        hash: 356a192b7913b04c54574d18c28d46e6395428ab
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974155800001.54519d8e/e":
+        hash: bc6407ac6cd9e975fc648ad19e71d8a13b7e66c1
+        size: 743
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974155800001.54519d8e/g":
+        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974155800001.54519d8e/s":
+        hash: baf5da7dc4627405ae6488f8d618430a813a0b81
+        size: 462
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974165900000.107043ac/c":
+        hash: 356a192b7913b04c54574d18c28d46e6395428ab
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974165900000.107043ac/e":
+        hash: b3f0f1791fc07de3a079e3527e65eea17d788f10
+        size: 602
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974165900000.107043ac/g":
+        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974165900000.107043ac/s":
+        hash: 4a20946ebf3fa7f63fd69ce8f454b1482249209f
+        size: 462
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974165900001.107043ac/c":
+        hash: 356a192b7913b04c54574d18c28d46e6395428ab
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974165900001.107043ac/e":
+        hash: f747373e50efa552c7969465c874995f420359b4
+        size: 742
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974165900001.107043ac/g":
+        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974165900001.107043ac/s":
+        hash: 4a20946ebf3fa7f63fd69ce8f454b1482249209f
+        size: 462
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974195900002.107043ac/c":
+        hash: 356a192b7913b04c54574d18c28d46e6395428ab
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974195900002.107043ac/e":
+        hash: b07577e6c1f57a84c401297e7b7796355b45c2b7
+        size: 606
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974195900002.107043ac/g":
+        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974195900002.107043ac/s":
+        hash: 4a20946ebf3fa7f63fd69ce8f454b1482249209f
+        size: 462
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974255900003.107043ac/c":
+        hash: 356a192b7913b04c54574d18c28d46e6395428ab
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974255900003.107043ac/e":
+        hash: 180cb7470bda595cb7eb1674427a3f57514170a9
+        size: 606
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974255900003.107043ac/g":
+        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974255900003.107043ac/s":
+        hash: 4a20946ebf3fa7f63fd69ce8f454b1482249209f
+        size: 462
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974345900004.107043ac/c":
+        hash: 356a192b7913b04c54574d18c28d46e6395428ab
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974345900004.107043ac/e":
+        hash: 304fcd2e5a8ff49be79196e935b491b0707e1ee9
+        size: 608
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974345900004.107043ac/g":
+        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
+        size: 1
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/ArchivedEvents/177974345900004.107043ac/s":
+        hash: 4a20946ebf3fa7f63fd69ce8f454b1482249209f
+        size: 462
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/config":
+        hash: a351bea1932270bafbe468584058fef20dcfc31e
+        size: 293
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/1c96655a-d3ec-4064-9404-e318f36a9588/Analytics/values":
+        hash: fdc8bf3d44cd173a36bc862d0ebfdeeb7ebb2f5c
+        size: 146
+      "C:/Users/PC/AppData/LocalLow/nexon/DAVE THE DIVER/Unity/ShaderVariantAnalytics/ShaderRuntimeInfoEvent.json":
+        hash: 193b9b4198408a9d9ed78f0eb2982e8d7b56e846
+        size: 555
     registry:
-      hash: 00ef41ddf0c1427f6f944078ba93c3742f8f6d1e
+      hash: ~
     children: []
