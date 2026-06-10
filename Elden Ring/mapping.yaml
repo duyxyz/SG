@@ -1,0 +1,21 @@
+---
+name: Elden Ring
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-06-10T16:39:05.875228400Z"
+    os: windows
+    files:
+      "C:/Users/PC/AppData/Roaming/EldenRing/76561197960271872/ER0000.sl2":
+        hash: 629a9e0cb7827ffae7b9af242d227d527787bc59
+        size: 28967888
+      "C:/Users/PC/AppData/Roaming/EldenRing/76561197960271872/ER0000.sl2.bak":
+        hash: 629a9e0cb7827ffae7b9af242d227d527787bc59
+        size: 28967888
+      "C:/Users/PC/AppData/Roaming/EldenRing/GraphicsConfig.xml":
+        hash: 45070f1b4c8cc92946668cbc1f33fc64717eebc4
+        size: 2568
+    registry:
+      hash: ~
+    children: []

@@ -1,3 +1,0 @@
-(s)|{"appid":"1c96655a-d3ec-4064-9404-e318f36a9588","userid":"c9ac4903796778a4aae129817e8687c1","sessionid":2389341802986078000,"platform":"WindowsPlayer","platformid":2,"sdk_ver":"u6000.0.52f1","runMode":"human-hub","sdk_rev":"9e4086222921","session_count":6,"localprojectid":"3d97fceceedbebe4780626b5ec0939ff","build_guid":"db87e3582a8346619fdfed8c0432e2c5","deviceid":"d64180c586e8d148db0033aea0c32189a95e9aaa","identity_token":"c9ac4903796778a4aae129817e8687c1"}
-(g)|2
-(1){"type":"analytics.appStart.v1","msg":{"previous_sessionid":4656141362472732384,"ts":1779741659326,"t_since_start":14064380}}

@@ -1,0 +1,11 @@
+"config"
+{
+	"bindings"
+	{
+		"p"		"noclip"
+		"h"		"<unbound>"
+		"MOUSE4"		"+voicerecord"
+		"`"		"<unbound>"
+		"MOUSE3"		"toggleconsole"
+	}
+}

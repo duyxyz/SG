@@ -4,27 +4,27 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2026-05-20T20:25:09.384827300Z"
+    when: "2026-06-10T16:39:06.018774700Z"
     os: windows
     files:
       "C:/Users/PC/AppData/Roaming/SlayTheSpire2/logs/godot.log":
-        hash: 16c130cf922a659590f858a8ad4ef8f11ad52d9d
-        size: 136146
+        hash: 7469d0dc08dfd8bef0eb303d1beea066d34b4f4b
+        size: 137911
       "C:/Users/PC/AppData/Roaming/SlayTheSpire2/logs/godot2026-05-19T01.21.22.log":
-        hash: fe139c4f9d09061dd1c965f340bde938453c67ae
-        size: 4410
+        hash: 2a3851fd2334bad43de2846f0d03333bd8bb5652
+        size: 4447
       "C:/Users/PC/AppData/Roaming/SlayTheSpire2/logs/godot2026-05-19T05.58.39.log":
-        hash: f9df7744efae82593e60986df5d92f0dcf1004da
-        size: 168040
+        hash: 6c554b85096bfcbe86c85f16f6beb14858d9324a
+        size: 170236
       "C:/Users/PC/AppData/Roaming/SlayTheSpire2/logs/godot2026-05-19T06.15.32.log":
-        hash: fe139c4f9d09061dd1c965f340bde938453c67ae
-        size: 4410
+        hash: 2a3851fd2334bad43de2846f0d03333bd8bb5652
+        size: 4447
       "C:/Users/PC/AppData/Roaming/SlayTheSpire2/logs/godot2026-05-21T02.27.44.log":
-        hash: 4de9e53e491e5a643699a131502935d8f1568167
-        size: 56857
+        hash: 91f646bb88f4847aeb18c6199859c70cf96b6ff3
+        size: 57606
       "C:/Users/PC/AppData/Roaming/SlayTheSpire2/sentry.dat":
-        hash: 419fad9e3b96d5604086984b558bcd299ecbdc61
-        size: 63
+        hash: 0603b89d3ebe120d4e561f31d8cc10667c9e22d9
+        size: 66
       "C:/Users/PC/AppData/Roaming/SlayTheSpire2/sentry/775cc7a0-0d6a-4ed7-4b51-ccaf4e74570c.run/__sentry-breadcrumb1":
         hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
         size: 0

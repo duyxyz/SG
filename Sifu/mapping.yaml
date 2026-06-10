@@ -1,0 +1,96 @@
+---
+name: Sifu
+drives:
+  drive-C: "C:"
+backups:
+  - name: "."
+    when: "2026-06-10T16:39:05.791891200Z"
+    os: windows
+    files:
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/ApexDestruction.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/Compat.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/ControlRig.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/DeviceProfiles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/EditorScriptingUtilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/Engine.ini":
+        hash: e9e790c618a61b796827d5118e89c890706d963f
+        size: 2009
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/Game.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/GameUserSettings.ini":
+        hash: 25c90c70dd2885f8ef81a74d0d7312f7a45d9267
+        size: 1146
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/GameplayAbilities.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/GameplayTags.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/Hardware.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/Input.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/MotoSynth.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/Niagara.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/OnlineSubsystemRedpointEOS.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/PhysXVehicles.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/Replay.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/RuntimeOptions.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/SCCore.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/Save.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/Scalability.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/Synthesis.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/VariantManagerContent.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/Config/WindowsClient/WuguanAI.ini":
+        hash: ba8ab5a0280b953aa97435ff8946cbcbb2755a27
+        size: 2
+      "C:/Users/PC/AppData/Local/Sifu/Saved/SaveGames/7e9253c0c5564622bdaf52f1aef77bc5/SifuProfile-1.sav":
+        hash: d167c5094e7208cd12e77d38b1e2b0431ba58115
+        size: 7264
+      "C:/Users/PC/AppData/Local/Sifu/Saved/SaveGames/7e9253c0c5564622bdaf52f1aef77bc5/SifuProfile.sav":
+        hash: 3f8b2bb1594b728159b74f1db07229aa73f5d096
+        size: 7264
+      "C:/Users/PC/AppData/Local/Sifu/Saved/SaveGames/7e9253c0c5564622bdaf52f1aef77bc5/SifuSaveGame0-1.sav":
+        hash: afaeef8e732b4f7b57c710bc694fd013000d20d6
+        size: 280640
+      "C:/Users/PC/AppData/Local/Sifu/Saved/SaveGames/7e9253c0c5564622bdaf52f1aef77bc5/SifuSaveGame0.sav":
+        hash: 186a4d8e9d9b855ba04b55fde0ae974ab0529b5c
+        size: 206656
+    registry:
+      hash: ~
+    children: []

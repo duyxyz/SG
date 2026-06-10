@@ -4,12 +4,12 @@ drives:
   drive-C: "C:"
 backups:
   - name: "."
-    when: "2026-05-18T07:29:37.006533200Z"
+    when: "2026-06-10T16:39:06.066642800Z"
     os: windows
     files:
       "C:/Users/PC/AppData/Roaming/SEGA/P5R/Steam/76561199150770555/ScreenSetting.xml":
-        hash: d6f0957d965804aabdcfbdb5103e2c60de9905a2
-        size: 133
+        hash: f67912bc90d8935a55a9fb5c196b626da3b8134c
+        size: 135
       "C:/Users/PC/AppData/Roaming/SEGA/P5R/Steam/76561199150770555/db/metadata":
         hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
         size: 0
@@ -23,8 +23,8 @@ backups:
         hash: e0ae112ffc19ed641612b6757930ad61be81aad2
         size: 576
       "C:/Users/PC/AppData/Roaming/SEGA/P5R/Steam/76561199150770555/savedata/steam_autocloud.vdf":
-        hash: aad807284f230c6b32eae6964abe2ca22ba4bc23
-        size: 53
+        hash: 37b67f913bcc5aba06247e807df399359f003da6
+        size: 57
     registry:
       hash: ~
     children: []
